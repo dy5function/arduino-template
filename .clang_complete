@@ -1,0 +1,4 @@
+-I/usr/share/arduino/hardware/arduino/cores/arduino
+-I/usr/share/arduino/hardware/arduino/variants/standard
+-I/usr/share/arduino/hardware/tools/avr/avr/include
+-I/usr/share/arduino/hardware/tools/avr/avr/include/**

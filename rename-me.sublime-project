@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"add_language_option": true,
+		"additional_language_options":
+		{
+			"c": [],
+			"c++": []
+		},
+		"inhibit_sublime_completions": true,
+		"sublimeclang_enable_fast_completions": true
+	}
+}
