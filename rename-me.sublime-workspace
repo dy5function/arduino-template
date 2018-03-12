@@ -1,1 +1,425 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Appen",
+				"AppendText"
+			],
+			[
+				"GetMouse",
+				"GetMouseEventDesc"
+			],
+			[
+				"Middle",
+				"MiddleUp"
+			],
+			[
+				"do",
+				"doUpdateLCD"
+			],
+			[
+				"section",
+				"sectionChorus"
+			],
+			[
+				"title",
+				"titleTrack1"
+			],
+			[
+				"LCD",
+				"LCD_REFRESH"
+			],
+			[
+				"PIN_LCD_DBS",
+				"PIN_LCD_DBSIX"
+			],
+			[
+				"PIN",
+				"PIN_BUTTON_NEXT"
+			],
+			[
+				"PIN_BUTT",
+				"PIN_BUTTON_NEXT"
+			],
+			[
+				"vol",
+				"volAvgMin"
+			],
+			[
+				"volMin",
+				"volMin"
+			],
+			[
+				"volAvg",
+				"volAvgMin"
+			],
+			[
+				"max",
+				"maxLvl"
+			],
+			[
+				"min",
+				"minLvl"
+			],
+			[
+				"minLvl",
+				"minLvlAvg"
+			],
+			[
+				"PIN_",
+				"PIN_MIC"
+			],
+			[
+				"buttonNext",
+				"buttonNextStateOld"
+			],
+			[
+				"ms_",
+				"ms_logChar"
+			],
+			[
+				"ms_log",
+				"ms_logKey"
+			],
+			[
+				"ms_logC",
+				"ms_logClip"
+			],
+			[
+				"Append",
+				"AppendCheckItem"
+			],
+			[
+				"Ape",
+				"AppendCheckItem"
+			],
+			[
+				"Appe",
+				"Append"
+			],
+			[
+				"wxLog",
+				"wxLogMessage"
+			],
+			[
+				"m_text",
+				"m_textrich"
+			],
+			[
+				"DoMove",
+				"DoMoveToEndOfEntry"
+			],
+			[
+				"wxUSE",
+				"wxUSE_DATEPICKCTRL"
+			],
+			[
+				"Calendar_TimePicker",
+				"Calendar_TimePicker_AskTime"
+			],
+			[
+				"wxUSE_TIME",
+				"wxUSE_TIMEPICKCTRL_GENERIC"
+			],
+			[
+				"Ap",
+				"Append"
+			],
+			[
+				"Calendar_File_",
+				"Calendar_File_ClearLog"
+			],
+			[
+				"OnCalendar",
+				"OnCalendarWeekClick"
+			],
+			[
+				"OnCalMonth",
+				"OnCalendarMonthChange"
+			],
+			[
+				"OnUpdate",
+				"OnUpdateUIGenericOnly"
+			],
+			[
+				"OnAsk",
+				"OnAskTime"
+			],
+			[
+				"Calendar_Time",
+				"Calendar_TimePicker_AskTime"
+			],
+			[
+				"Calendar_File",
+				"Calendar_File_Quit"
+			],
+			[
+				"WidgetsPage",
+				"WidgetsPageInfo"
+			],
+			[
+				"ALL",
+				"ALL_PAGE"
+			],
+			[
+				"BOOK",
+				"BOOK_PAGE"
+			],
+			[
+				"EDITAB",
+				"EDITABLE_PAGE"
+			],
+			[
+				"WITH",
+				"WITH_ITEMS_PAGE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"Git: Graph All"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/christoph/Dropbox/programming/arduino/template",
+		"/home/christoph/Dropbox/programming/arduino/template/bin"
+	],
+	"file_history":
+	[
+		"/home/christoph/Dropbox/programming/arduino/template/bin/lib-detection",
+		"/home/christoph/Dropbox/programming/arduino/template/bin/ard-reset-arduino",
+		"/home/christoph/Dropbox/programming/arduino/template/Common.mk",
+		"/home/christoph/Dropbox/programming/arduino/template/.clang_complete",
+		"/home/christoph/Dropbox/programming/arduino/template/Arduino.mk",
+		"/home/christoph/Dropbox/programming/arduino/template/rename-me.sublime-project",
+		"/home/christoph/Dropbox/programming/arduino/learning/trailing/trailing.sublime-project",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/src/Makefile",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/src/blink.ino",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/bin/lib-detection.py",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/bin/ard-reset-arduino.py",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/Common.mk",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/bin/build-uno/Makefile",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/.clang_complete",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/blink.sublime-project",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/Arduino.mk",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/src/FooProject/Makefile",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/bare-arduino.sublime-project",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/src/FooProject/Foo.sublime-project",
+		"/home/christoph/Dropbox/programming/arduino/learning/blink/src/FooProject/Foo.sublime-workspace",
+		"/home/christoph/Dropbox/programming/c++/hello/helloworld.cpp",
+		"/home/christoph/Dropbox/programming/c++/hello/CMakeLists.txt",
+		"/home/christoph/Dropbox/programming/c++/hello/CMakeList.txt",
+		"/home/christoph/Dropbox/programming/c++/hello/hello-world.cpp",
+		"/home/christoph/Dropbox/programming/c++/neural-network/src/main.cpp",
+		"/home/christoph/Dropbox/programming/c++/neural-network/src/exception.cpp",
+		"/home/christoph/Dropbox/programming/c++/neural-network/src/network.cpp",
+		"/home/christoph/Dropbox/programming/c++/neural-network/src/exception.h",
+		"/home/christoph/Dropbox/programming/c++/neural-network/src/network.h",
+		"/home/christoph/Dropbox/programming/c++/neural-network/README.md",
+		"/home/christoph/Dropbox/programming/c++/neural-network/main.cpp",
+		"/home/christoph/Dropbox/programming/c++/neural-network/network.cpp",
+		"/home/christoph/Dropbox/programming/c++/neural-network/network.h",
+		"/home/christoph/Dropbox/programming/test/script.js",
+		"/home/christoph/Downloads/wxWidgets-3.0.3/samples/config/conftest.cpp",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/samples/config/conftest.cpp",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/samples/config/conftest.h",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/samples/text/text.cpp",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/samples/sample.xpm",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/text/text.h",
+		"/home/christoph/Dropbox/programming/arduino/zero2nine_led/proglist.h",
+		"/home/christoph/Dropbox/programming/arduino/zero2nine_led/zero2nine.h",
+		"/home/christoph/Dropbox/programming/arduino/zero2nine_led/zero2nine_led.ino",
+		"/home/christoph/Dropbox/programming/c++/test.cpp",
+		"/home/christoph/Dropbox/programming/arduino/libraries/FastLED/FastLED.h",
+		"/home/christoph/Dropbox/programming/arduino/zero2nine_led/example.ino",
+		"/home/christoph/Dropbox/programming/arduino/zero2nine_led/programs.h",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/text/text.cpp",
+		"/home/christoph/Dropbox/programming/arduino/lib/FastLED/FastLED.h",
+		"/home/christoph/Dropbox/programming/c++/qt/notepad/notepad.pro.user",
+		"/home/christoph/Dropbox/programming/c++/qt/notepad/notepad.pro",
+		"/home/christoph/Dropbox/programming/c++/qt/notepad/main.cpp",
+		"/home/christoph/Dropbox/programming/c++/qt/notepad/notepad.h",
+		"/home/christoph/Dropbox/programming/c++/qt/notepad/notepad.cpp",
+		"/home/christoph/Dropbox/programming/c++/qt/notepad/notepad.ui",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/calendar/base.cpp",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/calendar/sample.xpm",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/dc/base.cpp",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/dc/base.h",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/widgets/widgets.h",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/widgets/icons/button.xpm",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/widgets/button.cpp",
+		"/etc/network/interfaces",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/editor/base.h",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/hallo-welt/base.cpp",
+		"/home/christoph/Dropbox/programming/c++/wxWidgets/hallo-welt/base.h",
+		"/home/christoph/Dropbox/programming/dysorganizer/client.cpp",
+		"/home/christoph/Dropbox/programming/dysorganizer/server.cpp",
+		"/home/christoph/Dropbox/programming/dysorganizer/client.h",
+		"/home/christoph/Dropbox/programming/dysorganizer/server.h",
+		"/home/christoph/Dropbox/programming/dysorganizer/server"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rename-me.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
